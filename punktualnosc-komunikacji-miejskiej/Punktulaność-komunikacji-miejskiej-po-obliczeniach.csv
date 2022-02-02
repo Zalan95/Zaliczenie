@@ -1,0 +1,10 @@
+numer_przystanku,numer_lini,numer_pojazdu,data,godzina_planowa_z_rozkladu,godzina_faktycznego_przyjazdu,godzina_faktycznego_odjazdu,opoznienia_przyjazdu,czas_pojazdu_na_przystanku
+Nieprawidlowa dana wprowadzona przez badacza,31,56,15.01.2022    ,Nieprawidlowa dana wprowadzona przez badacza,12:56,12:57,Niewystarczajaca ilosc danych do obliczenia,00:01
+5,Nieprawidlowa dana wprowadzona przez badacza,2,15.01.2022    ,13:24,13:20,13:25,00:00,00:05
+2,70,32,15.01.2022    ,19:25,19:40,19:41,00:15,00:01
+1,6,12,15.01.2022     ,20:52,20:50,Nieprawidlowa dana wprowadzona przez badacza,00:00,Niewystarczajaca ilosc danych do obliczenia
+3,3,14,16.01.2022    ,5:40,5:40,5:41,00:00,00:01
+4,14,17,Nieprawidlowa dana wprowadzona przez badacza,7:20,7:19,7:21,00:00,00:02
+5,21,18, 16.01.2022   ,8:21,8:30,8:32,00:09,00:02
+1,90,19, 16.01.2022   ,9:06,9:05,9:07,00:00,00:02
+8,Nieprawidlowa dana wprowadzona przez badacza,90,  16.01.2022   ,15:23,15:15,Nieprawidlowa dana wprowadzona przez badacza,00:00,Niewystarczajaca ilosc danych do obliczenia
